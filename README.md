@@ -82,11 +82,11 @@ Edit `src/data/levels.ts` to add or modify challenges:
 
 Modify design tokens in `src/index.css` to customize colors and effects.
 
-## 📝 License
+##  License
 
 MIT License - feel free to use this for your own events!
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
